@@ -7,8 +7,8 @@ first_name: Nan
 last_name: Zhang
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+# icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,7 +27,6 @@ bio: My research interests include computational statistics, nonparametric stati
 # Interests to show in About widget
 interests:
   - Computational statistics
-  - Nonparametric statistics
   - Functional data analysis
   - Statistical machine learning
 
