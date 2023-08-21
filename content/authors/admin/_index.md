@@ -35,7 +35,7 @@ interests:
 education:
   courses:
     - course: PhD in Statistics
-      institution: Texas A&#38;M University
+      institution: Texas A&amp;M University
       year: 2012
     - course: BSc in Mathematics
       institution: Peking University
