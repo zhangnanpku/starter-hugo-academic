@@ -1,47 +1,47 @@
 ---
 # Display name
-title: Nan Zhang
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Nan
-last_name: Zhang
+first_name: Alice
+last_name: Wu
 
 # Status emoji
-# status:
-#  icon: ☕️
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Fudan University
-    url: http://www.fudan.edu.cn/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational statistics, nonparametric statistics, functional data analysis, statistical machine learning, and big data analytics.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Computational statistics
-  - Functional data analysis
-  - Statistical machine learning
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Statistics
-      institution: Texas A&M University
-      year: 2015
-    - course: BSc in Mathematics
-      institution: Peking University
-      year: 2010
-    - course: BA in Economics
-      institution: Peking University
-      year: 2010
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +50,35 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhangnan@fudan.edu.cn'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=hlndHEsAAAAJ
+    link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/zhangnanpku
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
-  #  icon_pack: ai
-  #  link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zhangnan@fudan.edu.cn'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+---
+
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+{style="text-align: justify;"}
