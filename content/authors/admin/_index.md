@@ -70,4 +70,3 @@ highlight_name: true
 I am currently an Assistant Professor of Statistics in the <a href="http://www.sds.fudan.edu.cn/">School of Data Science</a> at <a href="http://www.fudan.edu.cn/en/">Fudan University</a>.
 
 My research interests include computational statistics, nonparametric statistics, functional data analysis, statistical machine learning, and big data analytics.
-{style="text-align: justify;"}
