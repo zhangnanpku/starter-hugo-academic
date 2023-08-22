@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: coffee
+  theme_day: mr_robot #minimal
+  theme_night: apogee
   font: minimal
   font_size: L
 
