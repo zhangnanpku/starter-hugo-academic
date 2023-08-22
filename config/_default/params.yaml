@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: mr_robot #minimal
-  theme_night: apogee
+  theme_day: forest #minimal
+  theme_night: mr_robot
   font: minimal
   font_size: L
 
