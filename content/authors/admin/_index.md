@@ -22,9 +22,9 @@ bio: I am a statistician.
 
 # Interests to show in About widget
 interests:
-  - Computational statistics
-  - Functional data analysis
-  - Statistical machine learning
+  - Computational Statistics
+  - Functional Data Analysis
+  - Statistical Machine Learning
 
 # Education to show in About widget
 education:
