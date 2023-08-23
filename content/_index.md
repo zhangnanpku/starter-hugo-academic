@@ -208,13 +208,9 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
       email: zhangnan@fudan.edu.cn
       address:
-        Office: Zibin N210
-        street: 220 Handan Rd
+        street: Zibin N210, 220 Handan Rd
         city: Shanghai
         postcode: '200433'
         country: China
