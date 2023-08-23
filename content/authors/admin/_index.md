@@ -32,10 +32,10 @@ education:
     - course: PhD in Statistics
       institution: Texas A&M University
       year: 2015
-    - course: BSc in Mathematics
+    - course: BA in Economics
       institution: Peking University
       year: 2010
-    - course: BA in Economics
+    - course: BSc in Mathematics
       institution: Peking University
       year: 2010
 
