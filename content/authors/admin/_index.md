@@ -18,7 +18,7 @@ organizations:
     url: http://www.fudan.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational statistics, nonparametric statistics, functional data analysis, statistical machine learning, and big data analytics.
+bio: I am a statistician.
 
 # Interests to show in About widget
 interests:
