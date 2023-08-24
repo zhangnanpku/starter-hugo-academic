@@ -1,7 +1,6 @@
 +++
-title: "Students"
-authors:
-- admin
+title = "Group"
+authors = ["Nan Zhang"]
 +++
 
 I am lucky to work with the following great people:
@@ -11,7 +10,7 @@ I am lucky to work with the following great people:
 ### A third-level heading
 
 
-## Master students 
+## Master Students 
 
 - **Yanshuo Liu** (SDS-22) Current
 - **Muye Nanshan** (SDS-19) 
@@ -21,7 +20,7 @@ I am lucky to work with the following great people:
 - **Jichen Yang** (SDS-18) 
     - Next: Wanjia Asset Management
 
-### Undergraduate students
+### Undergraduate Students
 
 - **Jiaheng Qu** (SDS-20) Current
 - **Junyi Liao** (SDS-20) Current
