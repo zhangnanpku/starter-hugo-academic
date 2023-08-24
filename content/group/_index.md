@@ -1,18 +1,15 @@
 +++
 title = "Group"
+subtitle = "I am lucky to work with the following great people."
 authors = ["Nan Zhang"]
 +++
 
 I am lucky to work with the following great people:
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
-
-
 ## Master Students 
 
-- **Yanshuo Liu** (SDS-22) Current
+- **Yanshuo Liu** (SDS-22) 
+    - Current
 - **Muye Nanshan** (SDS-19) 
     - Next: PhD student at Simon Fraser University
 - *Yunlu Chen* (SDS-18) 
@@ -20,10 +17,12 @@ I am lucky to work with the following great people:
 - **Jichen Yang** (SDS-18) 
     - Next: Wanjia Asset Management
 
-### Undergraduate Students
+## Undergraduate Students
 
-- **Jiaheng Qu** (SDS-20) Current
-- **Junyi Liao** (SDS-20) Current
+- **Jiaheng Qu** (SDS-20) 
+    - Current
+- **Junyi Liao** (SDS-20) 
+    - Current
 - **Yunhao Cai** (SDS-19) 
     - Next: Master student at Johns Hopkins University
 - **Yijun Fan** (MATH-19) 
