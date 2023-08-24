@@ -4,36 +4,38 @@ subtitle = "I am lucky to work with the following great people."
 authors = ["Nan Zhang"]
 +++
 
+I am lucky to work with the following great people. [^1]
 
 ## Master Students 
 
-- **Yanshuo Liu** (SDS-22) 
+- **Yanshuo Liu** (SDS) 
     - Current
-- **Muye Nanshan** (SDS-19) 
+- **Muye Nanshan** (SDS-2023) 
     - Next: PhD student at Simon Fraser University
-- **Yunlu Chen** (SDS-18) 
+- **Yunlu Chen** (SDS-2021) 
     - Next: PhD student at Northwestern University
-- **Jichen Yang** (SDS-18) 
+- **Jichen Yang** (SDS-2021) 
     - Next: Wanjia Asset Management
 
 ## Undergraduate Students
 
-- **Jiaheng Qu** (SDS-20) 
+- **Jiaheng Qu** (SDS) 
     - Current
-- **Junyi Liao** (SDS-20) 
+- **Junyi Liao** (SDS) 
     - Current
-- **Yunhao Cai** (SDS-19) 
+- **Yunhao Cai** (SDS-2023) 
     - Next: Master student at Johns Hopkins University
-- **Yijun Fan** (MATH-19) 
+- **Yijun Fan** (MATH-2023) 
     - Next: Master student at University of Pennsylvania
-- **Yunlong Yuan** (SDS-18) 
+- **Yunlong Yuan** (SDS-2022) 
     - Next: Master student at Fudan University
-- **Rentian Yao** (SDS-15) 
+- **Rentian Yao** (SDS-2019) 
     - Next: PhD student at University of Illinois Urbana-Champaign
-- **Tianning Xu** (MANA-14) 
+- **Tianning Xu** (MANA-2018) 
     - Next: PhD student at University of Illinois Urbana-Champaign
-- **Runbing Zheng** (MATH-14) 
+- **Runbing Zheng** (MATH-2018) 
     - Next: PhD student at North Carolina State University
     - Now: Postdoctoral Fellow at Johns Hopkins University
 
 
+[^1]: SDS (School of Data Science); MANA (School of Management). Years refer to graduation dates.
