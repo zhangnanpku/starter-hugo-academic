@@ -4,7 +4,7 @@ subtitle = "I am lucky to work with the following great people."
 authors = ["Nan Zhang"]
 +++
 
-I am lucky to work with the following great people. [^1]
+I am lucky to work with the following great people.[^*]
 
 ## Master Students 
 
@@ -38,4 +38,4 @@ I am lucky to work with the following great people. [^1]
     - Now: Postdoctoral Fellow at Johns Hopkins University
 
 
-[^1]: SDS (School of Data Science); MANA (School of Management). Years refer to graduation dates.
+[^*]: SDS (School of Data Science); MANA (School of Management). Years refer to graduation dates.
