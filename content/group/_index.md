@@ -6,11 +6,17 @@ draft = false
 
 I am lucky to work with the following great people:
 
+# A first-level heading
+## A second-level heading
+### A third-level heading
+
+
 Master students
 
-- Yanshuo Liu (SDS-22) Current
-- Muye Nanshan (SDS-19) Next: PhD student at Simon Fraser University
-- Yunlu Chen (SDS-18) Next: PhD student at Northwestern University
+- **Yanshuo Liu** (SDS-22) Current
+- [Muye Nanshan] (SDS-19) Next: PhD student at Simon Fraser University
+- Yunlu Chen (SDS-18) 
+    - Next: PhD student at Northwestern University
 - Jichen Yang (SDS-18) Next: Wanjia Asset Management
 
 Undergraduate students
