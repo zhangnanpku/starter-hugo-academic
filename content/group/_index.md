@@ -8,7 +8,9 @@ I am lucky to work with the following great people.[^1]
 
 ## Master Students 
 
-- **Yanshuo Liu** {style="color: red"} (SDS) 
+- **Yanshuo Liu** 
+{style="color: blue"} 
+(SDS) 
     - Current
 - **Muye Nanshan** (SDS-2023) 
     - Next: PhD student at Simon Fraser University
