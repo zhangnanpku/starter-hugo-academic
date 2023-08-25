@@ -11,6 +11,18 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: collection
+    id: posts
+    content:
+      title: News
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      design:
+      # Choose a layout view
+      view: compact
+      columns: '2'  
   #- block: collection
     #id: featured
     #content:
