@@ -4,7 +4,7 @@ subtitle = "I am lucky to work with the following great people."
 authors = ["Nan Zhang"]
 +++
 
-I am lucky to work with the following great people.[^*]
+I am lucky to work with the following great people.[^1]
 
 ## Master Students 
 
@@ -25,6 +25,7 @@ I am lucky to work with the following great people.[^*]
     - Current
 - **Yunhao Cai** (SDS-2023) 
     - Next: Master student at Johns Hopkins University
+    
 - **Yijun Fan** (MATH-2023) 
     - Next: Master student at University of Pennsylvania
 - **Yunlong Yuan** (SDS-2022) 
@@ -38,4 +39,4 @@ I am lucky to work with the following great people.[^*]
     - Now: Postdoctoral Fellow at Johns Hopkins University
 
 
-[^*]: SDS (School of Data Science); MANA (School of Management). Years refer to graduation dates.
+[^1]: SDS (School of Data Science); MANA (School of Management). Years refer to graduation dates.
