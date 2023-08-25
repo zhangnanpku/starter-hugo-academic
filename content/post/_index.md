@@ -1,13 +1,17 @@
-+++
-title = "News"
-author = ["Nan Zhang"]
-draft = false
-widget = "blank"
-headless = true
-active = true
-weight = 50
-+++
+---
+title: Posts
+cms_exclude: true
 
--   Announcement 1.
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 1
 
-- Our paper has been accepted by Statistica Sinica
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ''
+  image: ''
+---
+
+- Our paper has been accepted by Statistica Sinica.
