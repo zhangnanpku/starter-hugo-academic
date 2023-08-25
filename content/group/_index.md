@@ -8,7 +8,7 @@ I am lucky to work with the following great people.[^1]
 
 ## Master Students 
 
-- **Yanshuo Liu** (SDS) 
+- **Yanshuo Liu** {style="color: red"} (SDS) 
     - Current
 - **Muye Nanshan** (SDS-2023) 
     - Next: PhD student at Simon Fraser University
@@ -25,7 +25,6 @@ I am lucky to work with the following great people.[^1]
     - Current
 - **Yunhao Cai** (SDS-2023) 
     - Next: Master student at Johns Hopkins University
-    
 - **Yijun Fan** (MATH-2023) 
     - Next: Master student at University of Pennsylvania
 - **Yunlong Yuan** (SDS-2022) 
