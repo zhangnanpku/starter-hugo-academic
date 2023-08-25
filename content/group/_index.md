@@ -6,9 +6,8 @@ authors = ["Nan Zhang"]
 I am lucky to work with the following great people.[^1]
 
 ## Master Students 
-<span style="color:blue">some *blue* text</span>.
 
-- [**Yanshuo Liu**]({{group/}}) (SDS) 
+- [<span style="color:#1565c0">**Yanshuo Liu**</span> (SDS) 
     - Current
 - **Muye Nanshan** (SDS-2023) 
     - Next: PhD student at Simon Fraser University
