@@ -19,6 +19,7 @@ authors = ["Nan Zhang"]
 
   *Bernoulli*, accepted.
 
+#
 
 - **Zhang, N.**, Liu, Y.<sup>\*</sup> and Yang, J.<sup>\*</sup> (2023+)
 
@@ -26,6 +27,7 @@ authors = ["Nan Zhang"]
 	
   *Communications in Statistics - Simulation and Computation*, accepted.
 
+#
 
 - **Zhang, N.**, Nanshan, M.<sup>\*</sup> and Cao, J. (2022)
 
@@ -33,6 +35,7 @@ authors = ["Nan Zhang"]
 
   *Statistics and Computing*, 32, 5, 69.
 
+#
 
 - Chen, Y.<sup>\*</sup> and **Zhang, N.** (2022)
 
@@ -40,6 +43,7 @@ authors = ["Nan Zhang"]
 
   *Technometrics*, 64, 3, 396--408.
 
+#
 
 - Nanshan, M.<sup>\*</sup>, **Zhang, N.**, Xun, X. and Cao, J. (2022)
 
@@ -47,6 +51,7 @@ authors = ["Nan Zhang"]
 
   *Computational Statistics & Data Analysis*, 173, 107483.
 
+#
 
 - Yang, J.<sup>\*</sup> and **Zhang, N.** (2020)
 
@@ -54,6 +59,7 @@ authors = ["Nan Zhang"]
 
   *Stat*, 9, 1, p.e296.
 
+#
 
 - Ma, P.<sup>&#8224;</sup>, **Zhang, N.**<sup>&#8224;</sup>, Huang, J. Z. and Zhong, W. (2017)
 
@@ -61,6 +67,7 @@ authors = ["Nan Zhang"]
 
   *Statistica Sinica*, 27, 4, 1757--1777.
 
+#
 
 - Ge, H., and Caverlee, J., **Zhang, N.** and Squicciarini, A. (2016)
 
@@ -68,6 +75,7 @@ authors = ["Nan Zhang"]
 
   *Proceedings of the 25th ACM International on Conference on Information and Knowledge Management (CIKM)*, 1493--1502.
 
+#
 
 - Ma, P., Huang, J. Z. and **Zhang, N.** (2015)
 
