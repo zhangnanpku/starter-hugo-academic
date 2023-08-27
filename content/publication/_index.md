@@ -5,7 +5,7 @@ authors = ["Nan Zhang"]
 
 \* student under supervision; <span>&#8224;</span> equal contribution.
 
-- Han, Y.<span>&#8224;</span>, Yu, J.<span>&#8224;</span>, **Zhang, N.**<span>&#8224;</span>, Meng, C., Ma, P., Zhong, W. and Zou, C. (2023+)
+- Han, Y.<sup>&#8224;</sup><span>&#8224;</span>, Yu, J.<span>&#8224;</span>, **Zhang, N.**<span>&#8224;</span>, Meng, C., Ma, P., Zhong, W. and Zou, C. (2023+)
 
   [**Leverage classifier: another look at support vector machine**]()
 
