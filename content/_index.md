@@ -11,19 +11,7 @@ sections:
       title: 'About'
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    id: posts
-    content:
-      title: News
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      design:
-      # Choose a layout view
-      view: compact
-      columns: '2'  
-  #- block: collection
+    #- block: collection
     #id: featured
     #content:
     #  title: Featured Publications
@@ -34,21 +22,7 @@ sections:
     #design:
     #  columns: '2'
     #  view: card
-  - block: collection
-    content:
-      title: Selected Publications
-      #text: |-
-      #  {{% callout note %}}
-      #  Quickly discover relevant content by [filtering publications](./publication/).
-      #  {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: contact
+    - block: contact
     id: contact
     content:
       title: Contact
