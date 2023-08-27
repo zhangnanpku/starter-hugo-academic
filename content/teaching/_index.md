@@ -7,9 +7,9 @@ authors:
 ## Instructor at Fudan
 
 
-- **Fall 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023**
+- Fall 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
 
-    [DATA130004 - Computational Statistics]()
+    [**DATA130004 - Computational Statistics**]()
 
     *University Excellent Course in English*
 
@@ -41,7 +41,7 @@ authors:
     [DDA6030 - Advanced Statistics Theory]() (Graduate Level)
 
 
-### Tutorial at UAES
+## Tutorial at UAES
 
 - **Fall 2020, 2021, 2022**
 
