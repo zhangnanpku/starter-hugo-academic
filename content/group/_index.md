@@ -1,7 +1,8 @@
-+++
-title = "Group"
-authors = ["Nan Zhang"]
-+++
+---
+title: Group
+authors:
+  - Nan Zhang
+---
 
 I am lucky to work with the following great people.[^1]
 
