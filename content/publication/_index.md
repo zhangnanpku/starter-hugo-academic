@@ -1,7 +1,8 @@
-+++
-title = "Publications"
-authors = ["Nan Zhang"]
-+++
+---
+title: Publications
+authors:
+  - Nan Zhang
+---
 
 \* student under supervision; <span>&#8224;</span> equal contribution.
 
