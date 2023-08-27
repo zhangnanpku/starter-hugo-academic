@@ -4,7 +4,7 @@ authors:
   - Nan Zhang
 ---
 
-## Instructor at Fudan
+### Instructor at Fudan
 
 
 - Fall 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
@@ -15,7 +15,7 @@ authors:
 
 # 
 
-- **Spring 2017, 2018, 2019, 2020, 2021, 2022, 2023**
+- Spring 2017, 2018, 2019, 2020, 2021, 2022, 2023
 
     [DATA130013 - Time Series and Spatial Statistics]()
 
@@ -34,14 +34,14 @@ authors:
     [DATA130004.H - Advanced Regression Analysis]() (Honor)
 
 
-## Guest Lecturer at CUHK, Shenzhen
+### Guest Lecturer at CUHK, Shenzhen
 
 - **Spring 2022**
 
     [DDA6030 - Advanced Statistics Theory]() (Graduate Level)
 
 
-## Tutorial at UAES
+### Tutorial at UAES
 
 - **Fall 2020, 2021, 2022**
 
