@@ -67,6 +67,6 @@ email: 'zhangnan@fudan.edu.cn'
 highlight_name: true
 ---
 
-I am currently an assistant professor of Statistics in the [School of Data Science(http://www.sds.fudan.edu.cn) at [Fudan University](http://www.fudan.edu.cn/en/). I completed my PhD in Statistics, and spent one year as postdoctoral fellow at [Texas A&M University](http://www.stat.tamu.edu), working with [Professor Jianhua Huang](https://sds.cuhk.edu.cn/en/teacher/470).
+I am currently an assistant professor of Statistics in the [School of Data Science](http://www.sds.fudan.edu.cn) at [Fudan University](http://www.fudan.edu.cn/en/). I completed my PhD in Statistics, and spent one year as postdoctoral fellow at [Texas A&M University](http://www.stat.tamu.edu), working with [Professor Jianhua Huang](https://sds.cuhk.edu.cn/en/teacher/470).
 
 My research interests include computational statistics, nonparametric statistics, functional data analysis, statistical machine learning, and big data analytics.
