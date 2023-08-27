@@ -7,10 +7,11 @@ authors = ["Nan Zhang"]
 
 - Han, Y.<sup>&#8224;</sup>, Yu, J.<sup>&#8224;</sup>, **Zhang, N.**<sup>&#8224;</sup>, Meng, C., Ma, P., Zhong, W. and Zou, C. (2023+)
 
-  [**Leverage classifier: another look at support vector machine**]()
+  [**Leverage classifier: another look at support vector machine**](https://arxiv.org/pdf/2308.12444.pdf)
 
-  *Statistica Sinica*, accepted. [Arxiv](https://arxiv.org/pdf/2308.12444.pdf)
+  *Statistica Sinica*, accepted.
 
+#
 
 - **Zhang, N.**, Liu, P., Kong, L., Jiang, B. and Huang, J. Z. (2023+)
 
