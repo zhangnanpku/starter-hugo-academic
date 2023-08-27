@@ -3,7 +3,7 @@ title = "Publications"
 authors = ["Nan Zhang"]
 +++
 
-* student under supervision; <span>&#8224;</span> equal contribution.
+\* student under supervision; <span>&#8224;</span> equal contribution.
 
 - Han, Y.<span>&#8224;</span>, Yu, J.<span>&#8224;</span>, **Zhang, N.**<span>&#8224;</span>, Meng, C., Ma, P., Zhong, W. and Zou, C. (2023+)
 
