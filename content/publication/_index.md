@@ -63,13 +63,13 @@ authors = ["Nan Zhang"]
 
 - Ge, H., and Caverlee, J., **Zhang, N.** and Squicciarini, A. (2016)
 
-  [Uncovering the spatio-temporal dynamics of memes in the presence of incomplete information](http://dl.acm.org/citation.cfm?id=2983782)
+  [**Uncovering the spatio-temporal dynamics of memes in the presence of incomplete information**](http://dl.acm.org/citation.cfm?id=2983782)
 
   *Proceedings of the 25th ACM International on Conference on Information and Knowledge Management (CIKM)*, 1493--1502.
 
 
 - Ma, P., Huang, J. Z. and **Zhang, N.** (2015)
 
-  [Efficient computation of smoothing splines via adaptive basis sampling](http://biomet.oxfordjournals.org/content/102/3/631)
+  [**Efficient computation of smoothing splines via adaptive basis sampling**](http://biomet.oxfordjournals.org/content/102/3/631)
 
   *Biometrika*, 102, 3, 631--645.
