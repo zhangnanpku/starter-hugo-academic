@@ -4,18 +4,12 @@ authors:
   - Nan Zhang
 ---
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
-#### fourth
-
-
-### Instructor at Fudan
+## Instructor at Fudan
 
 
 - **Fall 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023**
 
-    [DATA 130004 - Computational Statistics]()
+    [DATA130004 - Computational Statistics]()
 
     *University Excellent Course in English*
 
@@ -23,28 +17,28 @@ authors:
 
 - **Spring 2017, 2018, 2019, 2020, 2021, 2022, 2023**
 
-    [DATA 130013 - Time Series and Spatial Statistics]()
+    [DATA130013 - Time Series and Spatial Statistics]()
 
-    *University Excellent Course* [link](http://fdjpkc.fudan.edu.cn/201927/)
+    *University Excellent Course* [(link)](http://fdjpkc.fudan.edu.cn/201927/)
 
 #
 
 - **Spring 2022, 2023**
 
-    [DATA 130005.H - Mathematical Statistics]() (Honor)
+    [DATA130005.H - Mathematical Statistics]() (Honor)
 
 #
 
 - **Fall 2021, 2022, 2023**
 
-    [DATA 130004.H - Advanced Regression Analysis]() (Honor)
+    [DATA130004.H - Advanced Regression Analysis]() (Honor)
 
 
-### Guest Lecturer at CUHK, Shenzhen
+## Guest Lecturer at CUHK, Shenzhen
 
 - **Spring 2022**
 
-    [DDA 6030  - Advanced Statistics Theory]() (Graduate Level)
+    [DDA6030 - Advanced Statistics Theory]() (Graduate Level)
 
 
 ### Tutorial at UAES
