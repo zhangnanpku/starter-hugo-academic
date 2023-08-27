@@ -5,7 +5,7 @@ authors = ["Nan Zhang"]
 
 \* student under supervision; <span>&#8224;</span> equal contribution.
 
-- Han, Y.<sup>&#8224;</sup><span>&#8224;</span>, Yu, J.<span>&#8224;</span>, **Zhang, N.**<span>&#8224;</span>, Meng, C., Ma, P., Zhong, W. and Zou, C. (2023+)
+- Han, Y.<sup>&#8224;</sup>, Yu, J.<sup>&#8224;</sup>, **Zhang, N.**<sup>&#8224;</sup>, Meng, C., Ma, P., Zhong, W. and Zou, C. (2023+)
 
   [**Leverage classifier: another look at support vector machine**]()
 
@@ -19,42 +19,42 @@ authors = ["Nan Zhang"]
   *Bernoulli*, accepted.
 
 
-- **Zhang, N.**, Liu, Y.* and Yang, J.* (2023+)
+- **Zhang, N.**, Liu, Y.<sup>\*</sup> and Yang, J.<sup>\*</sup> (2023+)
 
   [**Contextual tensor decomposition by projected alternating least squares**](https://www.tandfonline.com/eprint/DFPKYGFZ2EIU8BBYNKQJ/full?target=10.1080/03610918.2023.2196748)
 	
   *Communications in Statistics - Simulation and Computation*, accepted.
 
 
-- **Zhang, N.**, Nanshan, M. and Cao, J. (2022)
+- **Zhang, N.**, Nanshan, M.<sup>\*</sup> and Cao, J. (2022)
 
   [**A joint estimation approach to sparse additive ordinary differential equations**](https://link.springer.com/article/10.1007/s11222-022-10117-y)
 
   *Statistics and Computing*, 32, 5, 69.
 
 
-- Chen, Y.* and **Zhang, N.** (2022)
+- Chen, Y.<sup>\*</sup> and **Zhang, N.** (2022)
 
   [**Density regression with conditional support points**](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2044384)
 
   *Technometrics*, 64, 3, 396--408.
 
 
-- Nanshan, M.*, **Zhang, N.**, Xun, X. and Cao, J. (2022)
+- Nanshan, M.<sup>\*</sup>, **Zhang, N.**, Xun, X. and Cao, J. (2022)
 
   [**Dynamical modeling for non-Gaussian data with high-dimensional sparse ordinary differential equations**](https://www.sciencedirect.com/science/article/abs/pii/S0167947322000639)
 
   *Computational Statistics & Data Analysis*, 173, 107483.
 
 
-- Yang, J.* and **Zhang, N.** (2020)
+- Yang, J.<sup>\*</sup> and **Zhang, N.** (2020)
 
   [**Exponential family tensor completion with auxiliary information**](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.296)
 
   *Stat*, 9, 1, p.e296.
 
 
-- Ma, P.<span>&#8224;</span>, **Zhang, N.**<span>&#8224;</span>, Huang, J. Z. and Zhong, W. (2017)
+- Ma, P.<sup>&#8224;</sup>, **Zhang, N.**<sup>&#8224;</sup>, Huang, J. Z. and Zhong, W. (2017)
 
   [**Adaptive basis selection for exponential family smoothing splines with application in joint modeling of multiple sequencing samples**](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A27n420.pdf)
 
