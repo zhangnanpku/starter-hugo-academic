@@ -1,6 +1,7 @@
 ---
 title:
 authors:
+summary:
 share: false
 show_date: false
 ---
