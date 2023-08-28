@@ -3,7 +3,7 @@ title:
 authors:
 ---
 
-# Time Series and Spatial Statistics
+## **Time Series and Spatial Statistics**
 
 ### Instructor
 
@@ -11,12 +11,12 @@ authors:
 
 ### Textbooks
 
-*   Shumway and Stoffer (2017). _Time Series Analysis and Its Applications: with R Examples_, Springer, 4th edition. [tsa4](http://www.stat.pitt.edu/stoffer/tsa4/tsa4.htm)
+*   Shumway and Stoffer (2017). _Time Series Analysis and Its Applications: with R Examples_, Springer, 4th Edition. [tsa4](http://www.stat.pitt.edu/stoffer/tsa4/tsa4.htm)
 *   Cressie and Wikle (2011). _Statistics for Spatio-temporal Data_, Wiley.
 
 ### Reference
 
-*   Brockwell and Davis (2016). _Introduction to Time Series and Forecasting_, Springer, 4th edition.
+*   Brockwell and Davis (2016). _Introduction to Time Series and Forecasting_, Springer, 4th Edition.
 *   Wikle, Zammit-Mangion and Cressie (2019). _Spatio-temporal Statistics with R_, CRC Press. [link](https://spacetimewithr.org/)
 
 ### Schedule
