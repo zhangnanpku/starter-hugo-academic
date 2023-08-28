@@ -2,7 +2,8 @@
 title: Teaching
 authors:
   - Nan Zhang
-pager: false
+show_related: false
+show_breadcrumb: false
 ---
 
 ## Instructor at Fudan
