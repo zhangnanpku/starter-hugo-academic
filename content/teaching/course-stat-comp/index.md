@@ -20,7 +20,8 @@ authors:
 
 #### Schedule
 
-*   Week 1: Introduction to R. Probability and Statistics Review.
+*   Week 1: Introduction to R. 
+            Probability and Statistics Review.
 *   Week 2: Methods for Generating Random Variables.
 *   Week 3: Methods for Generating Random Vectors.
 *   Week 4: Monte Carlo Integration. Antithetic Variables.
@@ -31,7 +32,8 @@ authors:
 *   Week 9: Midterm.
 *   Week 10: The Bootstrap. Bootstrap Confidence Intervals.
 *   Week 11: The Jackknife. Cross Validation.
-*   Week 12: Introduction to Bayesian Analysis. Markov Chain Monte Carlo Methods.
+*   Week 12: Introduction to Bayesian Analysis. 
+             Markov Chain Monte Carlo Methods.
 *   Week 13: The Metropolis-Hastings Algorithm.
 *   Week 14: The Gibbs Sampler. Monitoring Convergence.
 *   Week 15: EM Algorithm.
