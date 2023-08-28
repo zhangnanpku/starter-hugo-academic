@@ -4,15 +4,15 @@ authors:
   - Nan Zhang
 ---
 
-#### Instructor
+### Instructor
 
-*   Nan Zhang
+-   Nan Zhang
 
-#### Textbook
+### Textbook
 
 *   Rizzo (2019). _Statistical Computing with R_, 2nd Edition, CRC
 
-#### Reference
+### Reference
 
 *   Givens and Hoeting (2012). _Computational Statistics_, Wiley
 *   Matloff (2011). _The Art of R Programming: A Tour of Statistical Software Design_, No Starch Press
