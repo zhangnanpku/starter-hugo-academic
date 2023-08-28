@@ -9,7 +9,7 @@ authors:
 
 - Fall 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
 
-    [**DATA130004 - Computational Statistics**]({{< relref "/teaching/course-stat-comp" >}})
+    [**DATA130004 - Computational Statistics**]({{< relref "/teaching/stat-comp" >}})
 
     *University Excellent Course in English* 
 
@@ -17,7 +17,7 @@ authors:
 
 - Spring 2017, 2018, 2019, 2020, 2021, 2022, 2023
 
-    [**DATA130013 - Time Series and Spatial Statistics**]({{< relref "/teaching/course-tsss" >}})
+    [**DATA130013 - Time Series and Spatial Statistics**]({{< relref "/teaching/tsss" >}})
 
     *University Excellent Course* [(link)](http://fdjpkc.fudan.edu.cn/201927/)
 
