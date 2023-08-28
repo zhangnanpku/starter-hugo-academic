@@ -1,9 +1,8 @@
 ---
-title: Computational Statistics
+title:
 authors:
-  - Nan Zhang
-date: ""
 ---
+## **Computational Statistics**
 
 ### Instructor
 
