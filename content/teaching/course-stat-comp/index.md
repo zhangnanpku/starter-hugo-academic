@@ -1,7 +1,8 @@
 ---
 title:
 authors:
-  - Nan Zhang
+#  - Nan Zhang
+date: 
 ---
 
 #### Instructor
@@ -20,9 +21,10 @@ authors:
 
 #### Schedule
 
-*   Week 1: Introduction to R. 
-            Probability and Statistics Review.
-*   Week 2: Methods for Generating Random Variables.
+-   Week 1: Introduction to R. 
+  Probability and Statistics Review.
+
+-   Week 2: Methods for Generating Random Variables.
 *   Week 3: Methods for Generating Random Vectors.
 *   Week 4: Monte Carlo Integration. Antithetic Variables.
 *   Week 5: Control Variates. Importance Sampling.
