@@ -2,6 +2,7 @@
 title:
 authors:
 share: false
+show_date: false
 ---
 
 ## **Time Series and Spatial Statistics**
