@@ -1,7 +1,7 @@
 ---
-title:
-authors:
-summary:
+title: title
+authors: authour
+summary: summary
 share: false
 show_date: false
 ---
