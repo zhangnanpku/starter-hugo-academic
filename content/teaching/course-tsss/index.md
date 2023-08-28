@@ -1,9 +1,8 @@
 ---
-title: Time Series and Spatial Statistics
-authors:
-  - Nan Zhang
-date: ''
+
 ---
+
+## Time Series and Spatial Statistics
 
 ### Instructor
 
