@@ -1,6 +1,7 @@
 ---
 title: title
-authors: authour
+authors:
+  - Nan Zhang
 summary: summary
 share: false
 show_date: false
