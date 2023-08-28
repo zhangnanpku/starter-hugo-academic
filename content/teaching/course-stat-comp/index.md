@@ -1,48 +1,59 @@
 ---
-title: Teaching
+title: Computational Statistics
 authors:
   - Nan Zhang
+date: ''
 ---
 
-### Instructor at Fudan
+### Instructor
 
+-   Nan Zhang
 
-- Fall 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+### Textbook
 
-    [**DATA130004 - Computational Statistics**]({{< relref "/teaching/course-stat-comp" >}})
+-   Rizzo (2019). _Statistical Computing with R_, 2nd Edition, CRC
 
-    *University Excellent Course in English* 
+### Reference
 
-# 
+*   Givens and Hoeting (2012). _Computational Statistics_, Wiley
+*   Matloff (2011). _The Art of R Programming: A Tour of Statistical Software Design_, No Starch Press
+*   Grolemund and Wickham (2017) _R for Data Science: Import, Tidy, Transform, Visualize, and Model Data_, 1st Edition, O'Reilly Media
 
-- Spring 2017, 2018, 2019, 2020, 2021, 2022, 2023
+### Schedule
 
-    [**DATA130013 - Time Series and Spatial Statistics**]()
+*   Week 1: Introduction to R. Probability and Statistics Review.
 
-    *University Excellent Course* [(link)](http://fdjpkc.fudan.edu.cn/201927/)
+*   Week 2: Methods for Generating Random Variables.
 
-#
+*   Week 3: Methods for Generating Random Vectors.
 
-- Spring 2022, 2023
+*   Week 4: Monte Carlo Integration. Antithetic Variables.
 
-    [**DATA130005.H - Mathematical Statistics**]() (Honor)
+*   Week 5: Control Variates. Importance Sampling.
 
-#
+*   Week 6: Stratified Sampling.
 
-- Fall 2021, 2022, 2023
+*   Week 7: Monte Carlo Methods in Estimation.
 
-    [**DATA130004.H - Advanced Regression Analysis**]() (Honor)
+*   Week 8: Monte Carlo Methods in Hypothesis Testing.
 
+*   Week 9: Midterm.
 
-### Guest Lecturer at CUHK, Shenzhen
+*   Week 10: The Bootstrap. Bootstrap Confidence Intervals.
 
-- Spring 2022
+*   Week 11: The Jackknife. Cross Validation.
 
-    [**DDA6030 - Advanced Statistics Theory**]() (Graduate Level)
+*   Week 12: Introduction to Bayesian Analysis. Markov Chain Monte Carlo Methods.
 
+*   Week 13: The Metropolis-Hastings Algorithm.
 
-### Tutorial at UAES
+*   Week 14: The Gibbs Sampler. Monitoring Convergence.
 
-- Fall 2020, 2021, 2022
+*   Week 15: EM Algorithm.
 
-    [**Predictive Modeling**]()
+*   Week 16: Variational Inference.
+
+#### Lecture Video
+
+*   Monte Carlo Integration: [Lecture 1](/static/video/stat-comp-english/MC-integration-Lecture01.mp4), [Lecture 2](/static/video/stat-comp-english/MC-integration-Lecture02.mp4), [Lecture 3](/static/video/stat-comp-english/MC-integration-Lecture03.mp4)
+*   Markov Chain Monte Carlo Methods: [Lecture 1](/static/video/stat-comp-english/MCMC-Lecture01.mp4), [Lecture 2](/static/video/stat-comp-english/MCMC-Lecture02.mp4), [Lecture 3](/static/video/stat-comp-english/MCMC-Lecture03.mp4)
