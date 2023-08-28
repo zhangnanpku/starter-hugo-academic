@@ -1,11 +1,8 @@
 ---
-title: Teaching
+title: DATA130004: Computational Statistics
 authors:
   - Nan Zhang
 ---
-
-DATA130004: Computational Statistics
-------------------------------------
 
 #### Instructor
 
