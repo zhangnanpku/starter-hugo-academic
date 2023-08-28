@@ -2,7 +2,7 @@
 title: Computational Statistics
 authors:
   - Nan Zhang
-date: ''
+date: ""
 ---
 
 ### Instructor
