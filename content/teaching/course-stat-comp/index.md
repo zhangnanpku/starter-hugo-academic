@@ -1,5 +1,5 @@
 ---
-title: DATA130004 Computational Statistics
+title:
 authors:
   - Nan Zhang
 ---
