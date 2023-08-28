@@ -11,7 +11,7 @@ authors:
 
     [**DATA130004 - Computational Statistics**]()
 
-    *University Excellent Course in English*
+    *University Excellent Course in English* 
 
 # 
 
