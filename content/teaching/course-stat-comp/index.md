@@ -2,7 +2,6 @@
 title:
 authors:
 #  - Nan Zhang
-date: 
 ---
 
 #### Instructor
