@@ -1,9 +1,9 @@
-+++
-title = ""
-author = ["Nan Zhang"]
-+++
+---
+title:
+authors:
+---
 
-## Time Series and Spatial Statistics
+# Time Series and Spatial Statistics
 
 ### Instructor
 
