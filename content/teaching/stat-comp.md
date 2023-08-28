@@ -1,6 +1,7 @@
 ---
 title:
 authors:
+share: false
 ---
 ## **Computational Statistics**
 
